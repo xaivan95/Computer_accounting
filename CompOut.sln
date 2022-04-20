@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompOut", "CompOut\CompOut.csproj", "{25139BC2-8ED0-4494-8C36-F1FBDDD159B7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2DFD586A-3D93-41BC-AF8A-9F405084382C}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Comp_Out", "Comp_Out\Comp_Out.vdproj", "{8D7E18D5-70A4-4725-8156-EE5DEF91A732}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25139BC2-8ED0-4494-8C36-F1FBDDD159B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25139BC2-8ED0-4494-8C36-F1FBDDD159B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25139BC2-8ED0-4494-8C36-F1FBDDD159B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25139BC2-8ED0-4494-8C36-F1FBDDD159B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D7E18D5-70A4-4725-8156-EE5DEF91A732}.Debug|Any CPU.ActiveCfg = Debug
+		{8D7E18D5-70A4-4725-8156-EE5DEF91A732}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AAFDC3E-2FF7-4575-A65C-BE6332652B83}
+	EndGlobalSection
+EndGlobal
